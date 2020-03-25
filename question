@@ -1,0 +1,16 @@
+Please suggest answer regarding functionality in ionic4: 
+I would like to build an ionic app where two user interacts
+1.)Look into eye of each other 
+2.)User one selected the category then question will come on user one screen 
+3.)User one read the question 
+4.)User two listen the user one question 
+5.)User two prompt with answer, he will opt any of 5 answer 
+6.)After that User two will ask question from user 1 same user 1 listen user2 then answer the question 
+7.)after 15 questions this quiz will completed, i need to save this conversation as well if any user left then 
+it will start for resumed postion
+
+Please suggest approach for this 
+Thanks 
+Satyendra Kumar Singh 
+saty.see@gmail.com 
++91 9205293272
